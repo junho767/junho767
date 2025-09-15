@@ -1,6 +1,9 @@
 <!-- README.md -->
 
-<h1 align="center">👋 안녕하세요! 저는 준호입니다. (Username: <strong>junho767</strong>)</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20Junho's%20GitHub!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Spring%20Boot%20%7C%20React&descAlignY=51&descAlign=62"/>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/junho767">
